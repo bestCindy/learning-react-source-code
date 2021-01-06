@@ -63,7 +63,7 @@ if (type && type.defaultProps) {
 }
 ```
 
-#### （四）`defaultProps` 用法：
+### （四）`defaultProps` 用法：
 
 ```
 class Comp extends React.Component {...}
